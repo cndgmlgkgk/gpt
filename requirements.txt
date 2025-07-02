@@ -1,1 +1,7 @@
-# No dependencies for now
+diff --git a/requirements.txt b/requirements.txt
+index 7befe85369963ae09ff50b686874b38b4ed85efd..d2ce485de20e2ecbcce28e76cb44e17ba33cc946 100644
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -1 +1 @@
+-# No dependencies for now
++# No external dependencies required
